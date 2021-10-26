@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" total="5" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing Suite Test Project Automation Suite]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font></h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.beforeSuite]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.beforeSuite]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing Test Test Project Automation]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font></h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : LoginPage.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : LoginPage.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font></h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font>This test verifies login functionality.</h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : LoginPage.verifyLogin]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : LoginPage.verifyLogin]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in tests.LoginPage]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font></h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font>This test verifies logout functionality.</h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : LoginPage.verifyLogout]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : LoginPage.verifyLogout]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in tests.LoginPage]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font></h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : DashboardPage.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : DashboardPage.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font></h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font>This test verifies click on top left arrow on dashboard page.</h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : DashboardPage.verifyTopLeftArrowClick]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : DashboardPage.verifyTopLeftArrowClick]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in tests.DashboardPage]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Failed]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font></h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font>This test verifies click on top right arrow on dashboard page.</h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : DashboardPage.verifyTopRightArrowClick]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : DashboardPage.verifyTopRightArrowClick]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in tests.DashboardPage]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font></h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ProfilePage.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ProfilePage.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font></h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font>This test verifies user name on profile page.</h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ProfilePage.verifyNameOnProfilePage]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ProfilePage.verifyNameOnProfilePage]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in tests.ProfilePage]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Failed]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing test Test Project Automation]]>
+    </line>
+    <line>
+      <![CDATA[<h3><font color='#0b47a8'> Description : </font></h3>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.tearDown]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.tearDown]]>
+    </line>
+    <line>
+      <![CDATA[About to end executing Suite Test Project Automation Suite]]>
+    </line>
+  </reporter-output>
+  <suite name="Test Project Automation Suite" duration-ms="168375" started-at="2021-10-26T15:20:33Z" finished-at="2021-10-26T15:23:21Z">
+    <groups>
+    </groups>
+    <test name="Test Project Automation" duration-ms="168375" started-at="2021-10-26T15:20:33Z" finished-at="2021-10-26T15:23:21Z">
+      <class name="tests.ProfilePage">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.ProfilePage@30b8a058]" name="beforeClass" is-config="true" duration-ms="27" started-at="2021-10-26T20:53:03Z" finished-at="2021-10-26T20:53:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : ProfilePage.beforeClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.ProfilePage@30b8a058]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-10-26T20:53:03Z" finished-at="2021-10-26T20:53:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.beforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="verifyNameOnProfilePage()[pri:0, instance:tests.ProfilePage@30b8a058]" name="verifyNameOnProfilePage" duration-ms="18287" started-at="2021-10-26T20:53:03Z" description="This test verifies user name on profile page." finished-at="2021-10-26T20:53:21Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+Name on profile page not as expected. Expected: Test_User2 but found: Test_User1. Refer attached screenshot.]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+Name on profile page not as expected. Expected: Test_User2 but found: Test_User1. Refer attached screenshot.
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:38)
+	at tests.BaseTest.testMethodWrapUp(BaseTest.java:60)
+	at tests.ProfilePage.verifyNameOnProfilePage(ProfilePage.java:65)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : ProfilePage.verifyNameOnProfilePage]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in tests.ProfilePage]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyNameOnProfilePage -->
+      </class> <!-- tests.ProfilePage -->
+      <class name="tests.DashboardPage">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.DashboardPage@68bbe345]" name="beforeClass" is-config="true" duration-ms="94" started-at="2021-10-26T20:51:22Z" finished-at="2021-10-26T20:51:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : DashboardPage.beforeClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.DashboardPage@68bbe345]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-10-26T20:51:22Z" finished-at="2021-10-26T20:51:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.beforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="verifyTopLeftArrowClick()[pri:0, instance:tests.DashboardPage@68bbe345]" name="verifyTopLeftArrowClick" duration-ms="75715" started-at="2021-10-26T20:51:22Z" description="This test verifies click on top left arrow on dashboard page." finished-at="2021-10-26T20:52:38Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+Click on top left arrow on dashboard unsuccessful. Refer attached screenshot.]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+Click on top left arrow on dashboard unsuccessful. Refer attached screenshot.
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:38)
+	at tests.BaseTest.testMethodWrapUp(BaseTest.java:60)
+	at tests.DashboardPage.verifyTopLeftArrowClick(DashboardPage.java:61)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : DashboardPage.verifyTopLeftArrowClick]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in tests.DashboardPage]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTopLeftArrowClick -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.DashboardPage@68bbe345]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-10-26T20:52:38Z" finished-at="2021-10-26T20:52:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.beforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyTopRightArrowClick()[pri:0, instance:tests.DashboardPage@68bbe345]" name="verifyTopRightArrowClick" duration-ms="24382" started-at="2021-10-26T20:52:38Z" description="This test verifies click on top right arrow on dashboard page." finished-at="2021-10-26T20:53:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : DashboardPage.verifyTopRightArrowClick]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in tests.DashboardPage]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTopRightArrowClick -->
+      </class> <!-- tests.DashboardPage -->
+      <class name="tests.LoginPage">
+        <test-method status="PASS" signature="beforeSuite(java.lang.String)[pri:0, instance:tests.LoginPage@cd2dae5]" name="beforeSuite" is-config="true" duration-ms="25" started-at="2021-10-26T20:50:33Z" finished-at="2021-10-26T20:50:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.beforeSuite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.LoginPage@cd2dae5]" name="beforeClass" is-config="true" duration-ms="12779" started-at="2021-10-26T20:50:33Z" finished-at="2021-10-26T20:50:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : LoginPage.beforeClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginPage@cd2dae5]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2021-10-26T20:50:45Z" finished-at="2021-10-26T20:50:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.beforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:tests.LoginPage@cd2dae5]" name="verifyLogin" duration-ms="26188" started-at="2021-10-26T20:50:45Z" description="This test verifies login functionality." finished-at="2021-10-26T20:51:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : LoginPage.verifyLogin]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in tests.LoginPage]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginPage@cd2dae5]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-10-26T20:51:12Z" finished-at="2021-10-26T20:51:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.beforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyLogout()[pri:0, instance:tests.LoginPage@cd2dae5]" name="verifyLogout" duration-ms="10188" started-at="2021-10-26T20:51:12Z" description="This test verifies logout functionality." finished-at="2021-10-26T20:51:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : LoginPage.verifyLogout]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in tests.LoginPage]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.LoginPage@cd2dae5]" name="tearDown" is-config="true" duration-ms="1243" started-at="2021-10-26T20:53:21Z" finished-at="2021-10-26T20:53:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.tearDown]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginPage -->
+    </test> <!-- Test Project Automation -->
+  </suite> <!-- Test Project Automation Suite -->
+</testng-results>

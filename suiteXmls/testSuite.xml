@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Project Automation Suite">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="reporting.TestListener" />
+		<listener class-name="reporting.TestReporter" />
+	</listeners>
+	<test verbose="1" name="Test Project Automation">
+		<classes>
+			<class name="tests.LoginPage"></class>
+			<class name="tests.DashboardPage"></class>
+			<class name="tests.ProfilePage"></class>
+		</classes>
+	</test>
+</suite>
